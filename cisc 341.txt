@@ -1,0 +1,299 @@
+cisc 341 work anthology spring '17 Armani Willis Samer Almazahreh
+
+Week 1
+
+Please answer any of the two questions review page 52-53 from the text by replying to this post.  You must try those questions no one has answered yet. Also, comment on one of the discussions from a fellow classmate.  A single word comment like "excellent" is not considered participation.  You can post your initial reaction to the reading/documentaries to provide an overview of something that struck you as interesting or disturbing in how responses related to a particular crisis covered were framed.
+If you copy and paste your information from a website, you must site your findings.
+ 
+REVIEW OF ESSENTIAL TERMS AND CONCEPTS
+1.       What is the difference between computer organization and computer architecture?
+2.       What is an ISA
+… etc.
+
+5. to what power does the prefix giga refer?
+
+giga is equivalent to saying 1 billion and represents a billion of something.
+nano is equivalent to saying 1 billionth and represents 1 billionth of something.
+
+6. to what power does the prefix micro refer?
+
+micro is the prefix for indicating 1 millionth of something.
+macro, or mega indicates 1 million of something.
+
+Practicality: wavelength is measured on many scales of 10, and it turns out that different colors
+are produced when photons are spaced apart in nanometers, or billionths of a meter.
+
+for example, the color purple, or indigo is produced at wavelengths of 402 to 417 billionths of 1 meter, or nanometers.
+
+http://quoteimg.com/metric-prefix-conversion-chart/www.toolsforanalysis.com%5Edrfrankscience%5Emetricprefixes.jpg/wbadvies.nl%5Epymetriclengthchart.html
+
+I know that week 1 also required an introduction, but i did not know where to post it.
+
+Anyway, my name is Armani Willis, I am a Junior computer science major. 
+
+My intrests and hobbies involve science, an in the future, i would like to give others the ability to practice science for free.
+
+There are alot of people here that i did not expect to be here. This makes me wish that this class was a physical class.
+
+Another reason is that i would have liked to be around these antique computer parts to learn how the bigger shallower computers became
+
+modern computers.
+
+Do Exercises questions 2, 13,17,19,23 & 24 on page 53-55 of the text book
+Exercises page 53-55
+2.
+a) How many milliseconds (ms) are in 1 second?
+There are 1 thousand milliseconds in 1 seconds.
+b) How many microseconds (µs) are in 1 second?
+There are 1 million microseconds in 1 second.
+c) How many nanoseconds (ns) are in 1 millisecond?
+There are 1 billion nanoseconds in 1 second.
+d) How many microseconds are in 1 millisecond?
+There are 1 thousand microseconds in 1 millisecond.
+e) How many nanoseconds are in 1 microsecond?
+There are 1 thousand nanoseconds in 1 microsecond.
+f) How many kilobytes (KB) are in 1 gigabyte (GB)?
+In decimals, there are 1 million kilobytes in 1 gigabyte.
+In binary, there are 1048576 kilobytes in 1 gigabyte.
+g) How many kilobytes are in 1 megabyte (MB)?
+there are 1000 kiliobytes per metric megabyte and 1024 kilobytes per megabyte in binary.
+h) How many megabytes are in 1 gigabyte (GB)?
+The conversions are the same between megabyte and gigabyte.
+i) How many bytes are in 20 megabytes?
+there are 20 million bytes in 20 metric megabytes.
+j) How many kilobytes are in 2 gigabytes?
+there are 2 million kilobytes for every 2 metric gigabytes.
+13. In the von Neumann model, explain the purpose of the:
+a) Processing unit
+The central processing unit consits of a control unit, a logic unit, and a memory unit and they transform inputs of data into other forms of data.
+b) Program counter
+The program counter registers, stores, and feeds back programs in order. It is used for simultaneous program running or program storage.
+17. What are the challenges facing organizations that wish to move to a Cloud platform? What are the
+risks and benefits?
+The cloud platform requires the abandonment of physical storage and local computation and all data and computation duties are stored and 
+performed in a computer warehouse.
+Programmers pay fees to run their programs under a different company specializing in data warehousing. 
+They are liable to fees, theft, restriction of access, and any physical problems that warehouse may encounter.
+They are also responsible for moving their data if the warehouse cannot perform.
+19. Explain what it means to “fetch” an instruction.
+Instuctions are traced back to their location by their address and read to the processing unit which follows the program instructions.
+23. What are the limitations of Moore’s Law? Why can’t this law hold forever? Explain.
+The limitations of Moore's law are that computing may evolve away from the need for transistors. Also, we cannot know if Moore's law will work indefinitely.
+24. What are some technical implications of Moore’s Law? What effect does it have on your future?
+Some of the technical implications of Moore's law is that computers may shrink to half their current size every 2 years.
+
+part b.
+7. What unit is typically used to measure the speed of a computer clock?
+Usually, gigahertz is used to measure the speed of a computer clock. For more specific apllications of computers, mega or kilo hertz may be used, but beeps per second is
+generally the measure of computer clock speed.
+
+10. What is the full name of the organisation that uses the initials ISO? Is ISO an acronym?
+The ISO term is not an acronym, it is an abbreviation for International Organization of Standardization, and is the premier developer of international standards 
+whose policies are implemented voluntarily ('') throughout planet earth.
+
+Week 2
+CISC 341 - Spring 2015
+Assignment #2
+*** Perform the following operation:
+ABCDE 15 * ABC 13 = 6566676869 15 * 656667 13 = 286772E*17CB7B = 28677214*171211711 = 4909874875653154 16 = 11718153DADC22 = 117181531310131222
+ABCDEF16 - 527467578 = (48E471B83A - 527467578) 2 = (656667686970 - 22133765496) 2 = 634533921474 2 = 1001001110111101001010110100001011000010
+ABCDEF16 + 527467578= (656667686970 + 22133765496) 2 = 678801452466 2 = 1001111000001011101110000010110110110010
+You need to show your work.
+Page (117-127)
+2. Perform the following base conversions using subtraction or division-remainder:
+a) 58810 = 2222200011 3
+b) 225410 = 24203120 5
+c) 65210 = 361055 7
+d) 310410 = 522720 9
+4. Perform the following base conversions.
+a) 201013 = _______ 10
+b) 23025 = ________ 10
+c) 16057 = _______ 10
+d) 6879 = ________ 10
+what base are these already in?
+8. Convert the following decimal fractions to binary with a maximum of six places to the right of the
+binary point:
+a) 25.84375 = 11001.10101
+b) 57.55 = 111001.110111
+c) 80.90625 = 1010000.
+d) 84.874023 = 1010100.
+11. Convert the following binary fractions to decimal:
+a) 100001.111 = 33.7
+b) 111111.10011 = 63.19
+c) 1001100.1011 = 76.11
+CISC 341 - Spring 2015 ?
+d) 10001001.0111 = 137.7
+18. Represent the following decimal numbers in binary using 8-bit signed magnitude, one’s complement,
+two’s complement, and excess-127 representations:
+a) 97     01100001 2 0110 0001 2 1001 1110 1001 1111 2 97-127=-30
+b) -97    11100001 2 1110 0001 2 0001 1110 0001 1111 2 -97-127=-224
+c) 44     00101100 2 0010 1100 2 1101 0011 1101 0110 2 44-127=-83
+d) -44    10101100 2 1010 1100 2 0101 0011 0101 0110 2 -44-127=-171
+Also, these arent decimal numbers. i was not even told what base they are in.
+20. What decimal value does the 8-bit binary number 10011110 have if:
+a) it is interpreted as an unsigned number? 158
+b) it is on a computer using signed-magnitude representation? -30
+c) it is on a computer using one’s complement representation? 10011110
+d) it is on a computer using two’s complement representation? 10011111
+e) it is on a computer using excess-127 representation? -157
+24. Using a "word" of 3 bits, list all of the possible signed binary numbers and their decimal equivalents
+that are representable in:
+a) Signed magnitude 000 001 010 011 100 101 110 111
+b) One's complement same
+c) Two's complement na  111 110 101 110 011 010 001
+no.
+39. Perform the following binary divisions, assuming unsigned integers:
+a) 11111101 ÷ 1011 = 253/11 = 23
+b) 110010101 ÷ 1001 = 405/9 = 45
+c) 1001111100 ÷ 1100 = 1024+124/12 = 1148/12= 106+1/3
+51. Show how each of the following floating point values would be stored using IEEE-754 single precision
+(be sure to indicate the sign bit, the exponent, and the significand fields):
+a) 12.5 0 10000010 10010000000000000000000
+b) −1.5 1 01111111 10000000000000000000000
+c) 0.75 0 01111110 10000000000000000000000
+CISC 341 - Spring 2015
+d) 26.625 0 10000011 10100010000000000000000
+56. a) The ASCII code for the letter A is 1000001, and the ASCII code for the letter a is 1100001. Given
+that the ASCII code for the letter G is 1000111, without looking at Table 2.7, what is the ASCII code for
+the letter g? 1110111?
+b) The EBCDIC code for the letter A is 1100 0001, and the EBCDIC code for the letter a is 1000 0001.
+Given that the EBCDIC code for the letter G is 1100 0111, without looking at Table 2.7, what is the ASCII
+code for the letter g? 1110 0111?
+c) The ASCII code for the letter A is 1000001, and the ASCII code for the letter a is 1100001. Given that
+the ASCII code for the letter Q is 1010001, without looking at Table 2.7, what is the ASCII code for the
+letter q? 1010101?
+d) The EBCDIC code for the letter J is 1101 0001, and the EBCDIC code for the letter j is 1001 0001.
+Given that the EBCDIC code for the letter Q is 1101 1000, without looking at Table 2.6, what is the ASCII
+code for the letter q? 1001 1000?
+e) In general, if you were going to write a program to convert uppercase ASCII characters to lowercase,
+how would you do it? Looking at Table 2.6, could you use the same algorithm to convert uppercase
+EBCDIC letters to lowercase? yes.
+f) If you were tasked with interfacing an ECIDIC-based computer with an ASCII or Unicode computer,
+what would be the best way to convert the EBCIDIC characters to ASCII characters? Compare and relate 
+both character sets to refer to and to reference with each other.
+Page 135 
+4. Write the 7-bit ASCII code for the character 4 using the following encoding:
+a) Non-return-to-zero                    0000100
+b) Non-return-to-zero-invert             1111011
+(Assume 1 is “high,” and 0 is “low.”)
+
+part b. 
+15. What is a biased exponent? What efficiencies can it provide?
+A biased exponent is an exponent that is more or less than one used in a given computation. 
+It is useful for making measuments of values in their original exponents. (Wolfram Mathematica)
+
+16. What is normalization and why is it necessary?
+Normalization is a restructuring of data to reduce redundancies. It is necessary for optimizing the speed of 
+processing the data, reducing the number of errors in transmission and translation, and making the data look more presentable.
+(https://support.microsoft.com/en-us/help/283878/description-of-the-database-normalization-basics)
+
+Week 3 (as pdf)
+part b. 
+Chapter 3.
+5. What is the boolean duality principle?
+0.0=0, 0.1=0, 0+0=0, 0+1=0, 1.1=1, 1+1=0
+The boolean duality principle deals with concepts which are false if doubly true.
+Therefore, it is an example of something that cant be true twice. for example, a pear cant be red and red, a flower cannot open and then be opened.
+so even though its conditions can both be true, they cannot add each other. 
+http://math.stackexchange.com/questions/408409/duality-principle-in-boolean-algebra
+
+8. Name the 4 basic logic gates.
+They are: NOT, AND, XOR, OR, and other logical mechanisms are systems of these gates,
+some of them are: NOR, NAND, XAND. (http://elearning.algonquincollege.com/coursemat/pincka/dat2343/lectures.f03/05-Logic-Gates-and-Circuits.html)
+
+Chapter 4.
+4. Where are registers located and what are the different types?
+Registers aree often located either on or closely assessible to the central processor.
+Among of the some Mostly used Registers named as AC or Accumulator, Data Register or DR, 
+the AR or Address Register, program counter(PC), Memory Data Register (MDR) ,Index register,Memory Buffer Register.
+http://ecomputernotes.com/fundamental/input-output-and-memory/what-is-registers-function-performed-by-registers-types-of-registers
+
+19. Explain byte and word addressible.
+Byte addressing: each byte gets 1 address and 1 slot. Word addressing: each word gets 1 address and 4 slots.
+http://web.cs.ucla.edu/classes/winter04/csM151B/l2/examples/
+
+Week 5 (redundant)
+
+Week 6, Chapter 7
+10. Why does DMA require cycle stealing?
+DMA stands for direct memory access. It requires cycle stealing when it accesses memory
+while it is occupied with too many other functions to handle it directly.
+
+27. How do optical discs store bytes?
+optical discs store bytes by the spin states of the atoms in its magnetic tape. When this tape is being read, the magnetic pin reader, or laser registers its electrical impulses
+from the reduction of the quantitity of its charge based on the spin state of the tape.
+
+Week 7, Chaper 8 (Operating Systems)
+
+7. How is a distributed operating system different from a networked operating system?
+A distributed operating system is a distribution of a single computer along multiple pieces of discrete hardware. A networked operating system is a system of multiple computers sharing 
+the same mainframe system.
+
+17. What is an overlay? Why are overlays not needed in large computer systems?
+Overlay is the process of dividing a file of whatever kind into chunks and allocating only needed sections of the file to memory. Overlays are not needed in large computer systems that can checkeach other's file space and registry for optimal process utility.
+
+Week 8 (Midterms)
+
+Week 9. 
+
+1. Why do risc machines operate on registers?
+risc machines operate on registers because they handle computation processes that must be stored in memory so that steps of the process can be completed.
+
+11. What do simd and mimd stand for? How do they relate to each other?
+(single,multiple);(multiple,data)streams are categories of data streams that a computer can process at a single time. in this case, single instruction single data means that this data stream
+carries one instruction and has a single stream matrix. multi instruction multiple data streams carry many instructions with many parallel lines of data.
+
+Week 10, redundant
+
+Week 11, Spring Break
+
+Week 12.
+
+15. Describe the steps involved in performing a context switch.
+
+Context switching involves saving a process in a certain state, then switching to a 
+
+different process. 
+
+The program counter indicates the current process that is returned to the process control
+
+block, then moves to either select a process from the priority queue, or to call the next
+
+process in ready queue.
+
+18. Describe how the operating system and the user program differ in their perception of a virtual machine.
+
+The operating system is fixed and the virtual machine is a component onto the operating system, the user program may be moved between virtual machines on an operating system, but the virtual machines are also movable, whereas the host operating system is not;
+
+Virtually run operating systems must still run off of the host operator when running user programs, user programs could also be virtual machines.
+
+Week 13. 
+
+2. What does Amhahl's law tell us about performance and optimization?
+
+Amdahl's law depicts how Performance is optimized as a whole the more that performance is optimised for components of the whole.  S=[(1-p)+(p/s)]^-1
+
+8. How is the Drhystone benchmark different from Whetstone and Linpack?
+
+Drhystone benchmarks contain no floating point operations.
+
+9. How are the 3 previous benchmarks inferior to SPEC CPU benchmarks?
+
+SPEC CPU benchmarking is CPU intensive, and works with younger programming languages and more recent operating systems.
+
+Week 14.
+
+9. Explain the General purpose of the TCP Protocol.
+
+The TCP Protocol was originally designed by CERN in the 1950s as a substandard model for unifying the connection protocols between multiple machines, and it allowed machines to be 
+individually identifyable over the internet.
+
+18. What is the difference between a bridge and a gateway?
+
+Gateways connect nodes through bridges.
+
+Week 15.
+
+Week 16. May 4th final exam.
+
+Week 15. 
